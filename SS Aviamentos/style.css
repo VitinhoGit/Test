@@ -1,0 +1,44 @@
+body{
+    background-color: #a84a39;
+}
+#principal{
+    background-color: #CE6857;
+    
+}
+#banner{
+    height: 120px;
+    border: 728px;
+    border: 10px solid rgb(180, 58, 10);
+    background-image: url(imag/BannerSS.png);
+    background-repeat: no-repeat;
+    background-position: center;
+       
+}
+#bar{
+    background-color: #CE6857;
+    border:  5px solid rgb(204, 67, 12);
+    margin-top: 3px;
+}
+table{
+    text-align: center;
+    width: 100%;
+}
+tr{
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: whitesmoke;
+}
+a{
+    text-decoration: none;
+    color: rgb(136, 43, 43);
+}
+a:hover{
+    color: whitesmoke;
+}
+iframe{
+    width: 100%;
+    height: 100%;
+    border: none;
+}
